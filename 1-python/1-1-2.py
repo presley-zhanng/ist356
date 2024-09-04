@@ -1,0 +1,5 @@
+check = int(input("What is the check amount? "))
+tipPer = int(input("What is the tip%? "))
+numDiners = int(input("How many people ate? "))
+total = check + (check*(tipPer/100))
+print(f"The total amount including tip is ${total}. Amount per customer is ${total/numDiners}.")

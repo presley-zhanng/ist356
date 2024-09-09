@@ -1,4 +1,4 @@
-check = int(input("What is the check amount? "))
+check = float(input("What is the check amount? "))
 tipPer = int(input("What is the tip%? "))
 numDiners = int(input("How many people ate? "))
 total = check + (check*(tipPer/100))

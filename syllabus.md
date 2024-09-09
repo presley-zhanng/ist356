@@ -6,7 +6,7 @@
 
    Instructor:  Michael Fudge
    Email: mafudge@syr.edu
-   Office Hours:  TBA
+   Office Hours:  M/W 11a-1p in 314 hinds
 ```
 
 ## Course Description
@@ -93,6 +93,13 @@ You are expected to attend and participate in every class session. If you must m
 The assignments are programming / problem solving activities that you will complete outside of class. The assignment due dates are posted on the course schedule. Consider these assignments formative assessments - practice so you can get better at computational thinking, problem solving and writing code. It is important to reflect upon your work and take an honest assessment of your abilities as you complete each assignment. 
 
 Each Monday we will review the homework assignment. Students will be asked to contribute to the discussion.
+
+Factors affecting your grade:
+
+- Is the code working and correct?
+- Were the instructions followed? (e.g. commit after each function is written)
+- Good reflection: specific, uses terminology, actionable
+- Handed in on time, so your prof only needs to review submissions 1 time.
 
 ### Exams
 
@@ -191,7 +198,7 @@ Based on the assignments in this course and our specified learning outcomes, the
     - [https://www.tomasbeuzen.com/python-programming-for-data-science/](https://www.tomasbeuzen.com/python-programming-for-data-science/) (2.1 to 2.4)
 - Python 1-3: Functions, documentaion, strings, files
     - [https://www.tomasbeuzen.com/python-programming-for-data-science/](https://www.tomasbeuzen.com/python-programming-for-data-science/) (2.5 to 2.10)
-    - For files / context Managers: [https://realpython.com/python-with-statement(https://realpython.com/python-with-statement)]    
+    - For files / context Managers: [https://realpython.com/python-with-statement](https://realpython.com/python-with-statement)    
 - Python 1-4: Modules, import, pip, testing
     - [https://www.tomasbeuzen.com/python-programming-for-data-science/](https://www.tomasbeuzen.com/python-programming-for-data-science/)  (3.1 to 3.2, and 4.1 to 4.4)
 
